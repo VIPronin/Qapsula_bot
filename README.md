@@ -60,5 +60,5 @@ names_list = ФИО ПИЛОТА
 ## Команда проекта
 
 - [Пронин Владислав](https://github.com/VIPronin)
-- [Саликов Павел](https://t.me/matanivanov)
+- [Саликов Павел](https://github.com/MatanIvanov)
 ##
